@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Rick! 👋  
 
-<!--
-**r1yck/r1yck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Bacharelado em Sistemas de Informação** (5/8) no **Instituto Federal Baiano**  
+🖥️ Apaixonado por tecnologia e desenvolvimento  
+🚀 Sempre buscando aprender e evoluir!  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou estudando:
+- **Linguagens & Frameworks:** Java ☕ | JavaFX | React ⚛️ | Next.js | TypeScript  
+- **Front-end:** HTML, CSS, JavaScript 🌐  
+- **Banco de Dados:** SQL 📊  
+- **Outras Habilidades:** Experiência com edição de vídeos 🎬  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickedin/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r1yck/)
